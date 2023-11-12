@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1yH2ag1-dHOytxnzf0gTEzMRNzcjre3Ge/view?usp=sharing](https://drive.google.com/file/d/1yH2ag1-dHOytxnzf0gTEzMRNzcjre3Ge/view?usp=sharing)
 
-<h3 align="left">Connect with me:[https://www.linkedin.com/in/ramanjhadtu/](https://www.linkedin.com/in/ramanjhadtu/)</h3>
+<h3 align="left">Connect with me:https://www.linkedin.com/in/ramanjhadtu/</h3>
 <p align="left">
 </p>
 
